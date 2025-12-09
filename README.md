@@ -93,7 +93,7 @@ Enhance UI/UX with dark mode and accessibility features.
 Screenshots:- 
 
 [Home Page]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2840f3b-cb5d-4054-9754-54bfad772488" />
-[HomePage]<img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/93d7f46b-0b18-4f7a-814b-77a2ec75c2c8" />
+[Home Page]<img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/93d7f46b-0b18-4f7a-814b-77a2ec75c2c8" />
 [Register Page]<img width="1920" height="1080" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/c3611f36-a90c-4a43-b69c-94ddecd360cf" />
 [Login Page]<img width="1920" height="1080" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/f5cf3b71-e48f-437f-a90f-cb52cdb18381" />
 [User Dashboard]<img width="1920" height="1080" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/94f73def-5207-47fe-b8cc-b37973e0ad5d" />
