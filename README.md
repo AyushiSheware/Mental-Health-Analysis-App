@@ -1,15 +1,15 @@
 Table of Contents:-
 
-Overview
-Features
-Technologies Used
-Project Flow
-Installation
-Usage
-Future Improvements
-Screenshots
-Contributing
-License
+Overview,
+Features,
+Technologies Used,
+Project Flow,
+Installation,
+Usage,
+Future Improvements,
+Screenshots,
+Contributing,
+License,
 
 Overview:-
 
